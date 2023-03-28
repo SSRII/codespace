@@ -2,4 +2,4 @@
 
 int main(void)
 {
-printf("Pekpek all over te world/");}
+printf("Fuck no\n");}
