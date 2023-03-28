@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+#include <cs50.h>
 int main(void)
 {
-printf("Fuck no\n");}
+printf("Fuck no\n");
+
+}
